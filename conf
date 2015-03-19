@@ -2,4 +2,4 @@
 
 service condor start
 
-condor_startd -f
+condor_schedd -f
