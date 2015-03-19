@@ -1,0 +1,5 @@
+#!/bin/bash
+
+service condor start
+
+condor_startd -f
